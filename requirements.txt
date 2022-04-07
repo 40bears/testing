@@ -20,7 +20,7 @@ pyparsing==3.0.7
 PySocks==1.7.1
 pytest==7.0.1
 requests==2.27.1
-selenium==4.1.3
+selenium==4.0.0a7
 six==1.15.0
 sniffio==1.2.0
 sortedcontainers==2.4.0
