@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="utf-8"?><testsuites><testsuite name="pytest" errors="0" failures="0" skipped="0" tests="2" time="0.038" timestamp="2022-04-07T15:20:10.910763" hostname="Umars-Macbook-Pro.local"><testcase classname="test_addition" name="test_add" time="0.001" /><testcase classname="test_addition" name="test_add_string" time="0.001" /></testsuite></testsuites>
