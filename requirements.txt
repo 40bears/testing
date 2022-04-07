@@ -29,4 +29,4 @@ trio==0.19.0
 trio-websocket==0.9.2
 urllib3==1.26.9
 webdriver-manager==3.5.4
-wsproto==1.1.0
+wsproto==1.0.0
